@@ -1,4 +1,4 @@
-Agent Provenance Governance Framework (APGF)
+# Agent Provenance Governance Framework (APGF)
 
 **Discussion Draft v0.1 — November 24, 2026**
 
